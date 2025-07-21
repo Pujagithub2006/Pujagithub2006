@@ -12,7 +12,7 @@
 - 🏫 Currently pursuing B.Tech in Computer Engineering  
 - 💡 Passionate about Java, JS, DBMS, backend development, problem-solving, and clean UI
 - 🔭 I'm currently building:  
-  - `Smart City Analytics` – an advanced SQL project with normalized schema  
+  - `UrbanPulse` and `DevForge`.  
 - 📚 Always learning: Java, DSA, SQL
 - 🛠️ Preparing rigorously for **hackathons** & software development excellence
   
