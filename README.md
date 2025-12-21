@@ -3,15 +3,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pujagithub2006" alt="pujagithub2006" /></a> </p>
 
-- 🔹 I’m currently working on **Java Rate Limiter**
+- 🌳 I’m currently working on **Java Rate Limiter**
 
-- 🔹 I’m currently learning **Java, SQL,MERN stack, AI**
+- 🌳 I’m currently learning **Java, SQL,MERN stack, AI**
 
-- 🔹 I regularly write articles on [https://puja-nikam.hashnode.dev/](https://puja-nikam.hashnode.dev/)
+- 🌳 I regularly write articles on [https://puja-nikam.hashnode.dev/](https://puja-nikam.hashnode.dev/)
 
-- 🔹 Ask me about **Java, SQL, Web Development**
+- 🌳 Ask me about **Java, SQL, Web Development**
 
-- 🔹 How to reach me **pujasantoshnikam@gmail.com**
+- 🌳 How to reach me **pujasantoshnikam@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
