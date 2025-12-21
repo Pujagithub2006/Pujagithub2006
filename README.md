@@ -1,92 +1,31 @@
-![Banner](https://raw.githubusercontent.com/puja-nikam/puja-nikam/main/banner.png)
+<h1 align="center">Hello 👋, I am Puja Nikam</h1>
+<h3 align="center">An aspiring fullstack developer from India</h3>
 
-# Hello, I’m Puja Nikam 👋
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pujagithub2006" alt="pujagithub2006" /></a> </p>
 
-🎓 Computer Engineering Student | Full-Stack Developer (In Progress)  
-Focused on building strong foundations in **Java, DSA, Databases, Web Technologies, Flutter, and Cloud Computing**
+- 🔭 I’m currently working on **Java Rate Limiter**
 
----
+- 🌱 I’m currently learning **Java, SQL,MERN stack, AI**
 
-## About Me
+- 📝 I regularly write articles on [https://puja-nikam.hashnode.dev/](https://puja-nikam.hashnode.dev/)
 
-- 🎓 Pursuing **B.Tech in Computer Engineering**
-- 💡 Strong interest in **Java, JavaScript, DBMS, backend development, problem-solving, and clean UI design**
-- 🔭 Currently working on:
-  - **UrbanPulse**
-  - **DevForge**
-- 📚 Actively learning and practicing **Java, DSA, SQL**
-- 🛠️ Preparing for **hackathons, internships, and real-world software development**
+- 💬 Ask me about **Java, SQL, Web Development**
 
----
+- 📫 How to reach me **pujasantoshnikam@gmail.com**
 
-## Tech Stack
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/its_puja_nikam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="its_puja_nikam" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/puja-nikam-706176285" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="puja-nikam-706176285" height="30" width="40" /></a>
+<a href="https://instagram.com/the_puja_nikam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_puja_nikam" height="30" width="40" /></a>
+<a href="https://hashnode.com/@puja-nikam.hashnode.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@puja-nikam.hashnode.dev" height="30" width="40" /></a>
+</p>
 
-### Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pujagithub2006&show_icons=true&locale=en&layout=compact" alt="pujagithub2006" /></p>
 
-### Backend & Tools
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pujagithub2006&show_icons=true&locale=en" alt="pujagithub2006" /></p>
 
----
-
-## Featured Projects
-
-### Smart City Analytics  
-**PostgreSQL | PgAdmin | DrawSQL**
-
-A database-focused project simulating real-world smart city data and analytics.
-
-- Designed **6 fully normalized and interconnected tables**
-- Implemented advanced SQL queries using `JOIN`, `GROUP BY`, `HAVING`, and `CTEs`
-- Visualized schema using ER diagrams
-- 🔗 GitHub Repository:  
-  https://github.com/Pujagithub2006/Smart-City-Analytics-SQL-Project
-
----
-
-### Medi-Buddy – AI Healthcare Platform  
-**Google Solutions Challenge 2025 (Work in Progress)**
-
-An AI-powered healthcare platform addressing limited access to medical guidance, emergency services, and hospital resources.
-
-- AI medical assistant powered by **Gemini API**
-- Nearest hospital locator with smart filters
-- Secure health record access and pharmacy delivery integration
-- 🌐 Live Demo:  
-  https://medi-buddy-website.onrender.com/
-- 🔗 GitHub Repository:  
-  https://github.com/Pujagithub2006/G-Solutions-Hackathon
-
----
-
-## Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/puja-nikam-706176285/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Pujagithub2006)
-
-📧 **Email:** pujanikam2006@gmail.com *(replace if needed)*
-
----
-
-## GitHub Stats
-
-![Puja Nikam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pujagithub2006&show_icons=true&theme=radical)
-
----
-
-*Thank you for visiting my GitHub profile.  
-Always open to collaboration, learning, and building meaningful technology.*
-
-
-This is a very boring and long github overview profile page. 
-
-Reduce it. Keep it as it for professionals only
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pujagithub2006&" alt="pujagithub2006" /></p>
