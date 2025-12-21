@@ -1,11 +1,13 @@
 <h1 align="center">Hello 👋, I am Puja Nikam</h1>
 <h3 align="center">An aspiring fullstack developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pujagithub2006" alt="pujagithub2006" /></a> </p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pujagithub2006&theme=onedark&no-frame=true&row=1&column=6" />
+</p>
 
 -  I’m currently working on **Java Rate Limiter**
 
--  I’m currently learning **Java, SQL,MERN stack, AI**
+-  I’m currently learning **Java, SQL, DSA, MERN stack, AI**
 
 -  I regularly write articles on [https://puja-nikam.hashnode.dev/](https://puja-nikam.hashnode.dev/)
 
