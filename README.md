@@ -10,7 +10,7 @@ I’ll be happy to receive any **feedback** or **code reviews** that can help me
 <table>
   <tr>
     <td valign="top" align="left">
-      <img src="https://media.giphy.com/media/MA2k5iLXwtdEqjEYY3/giphy.gif" width="220" alt="Lofi Dog Sticker" />
+      <img src="https://media.giphy.com/media/MA2k5iLXwtdEqjEYY3/giphy.gif" width="180" alt="Lofi Dog Sticker" />
     </td>
     <td valign="centre" align="left">
       <img src="https://ghchart.rshah.org/40c463/Pujagithub2006" alt="Puja's GitHub Contribution Heatmap" width="800" />
