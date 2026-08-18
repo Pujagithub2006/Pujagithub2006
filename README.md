@@ -7,13 +7,11 @@ I’ll be happy to receive any **feedback** or **code reviews** that can help me
 
 ⭐️ Feel free to **follow me** — I’d really appreciate your support!
 
-<br />
 
 <p align="left">
   <img src="https://media.giphy.com/media/MA2k5iLXwtdEqjEYY3/giphy.gif" width="200" alt="Lofi Dog Sticker" />
 </p>
 
-<br />
 
 ### ⚡ Featured Projects
 
