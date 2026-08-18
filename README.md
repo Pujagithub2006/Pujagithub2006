@@ -9,7 +9,7 @@ I’ll be happy to receive any **feedback** or **code reviews** that can help me
 
 <br />
 
-<p align="center">
+<p align="left">
   <img src="https://media.giphy.com/media/MA2k5iLXwtdEqjEYY3/giphy.gif" width="200" alt="Lofi Dog Sticker" />
 </p>
 
