@@ -7,11 +7,16 @@ I’ll be happy to receive any **feedback** or **code reviews** that can help me
 
 ⭐️ Feel free to **follow me** — I’d really appreciate your support!
 
-
-<p align="left">
-  <img src="https://media.giphy.com/media/MA2k5iLXwtdEqjEYY3/giphy.gif" width="200" alt="Lofi Dog Sticker" />
-</p>
-
+<table>
+  <tr>
+    <td valign="top" align="left">
+      <img src="https://media.giphy.com/media/MA2k5iLXwtdEqjEYY3/giphy.gif" width="220" alt="Lofi Dog Sticker" />
+    </td>
+    <td valign="centre" align="left">
+      <img src="https://ghchart.rshah.org/40c463/Pujagithub2006" alt="Puja's GitHub Contribution Heatmap" width="800" />
+    </td>
+  </tr>
+</table>
 
 ### ⚡ Featured Projects
 
