@@ -1,9 +1,58 @@
 <h1 align="center">Hello 👋, I am Puja Nikam</h1>
-<h3 align="center">An aspiring fullstack developer from India</h3>
+<h3 align="center">An aspiring fullstack developer from Pune, MH, India</h3>
 
 
 
--  I’m currently working on **Java Rate Limiter**
+-  I’m currentl# Puja Nikam
+
+**Fullstack Developer** | Based in India
+
+I focus on backend systems, fullstack web applications, and writing technical content.
+
+---
+
+### About
+
+* **Current Focus:** Building a Java Rate Limiter
+* **Technologies:** Java, SQL, DSA, MERN Stack, AI
+* **Writing:** Technical articles on [Hashnode](https://puja-nikam.hashnode.dev/)
+* **Contact:** [pujasantoshnikam@gmail.com](mailto:pujasantoshnikam@gmail.com)
+
+<br />
+
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Y5M3Jrdms2czd0OHp0MG1ud2dyOHlyZWx5M3U1OG8yODF3YmhhdyZlcD12MV9pbnRlcm5hbF_naWZfYnlfaWQmY3Q9cw/k8P3P82K1W4o1O0p3z/giphy.gif" width="160px" alt="Cute Minimal Dog GIF" />
+</div>
+
+<br />
+
+---
+
+### Tech Stack
+
+**Languages & Core**  
+`Java` · `JavaScript` · `Python` · `SQL` · `HTML/CSS`
+
+**Frameworks & Libraries**  
+`React` · `Node.js` · `Flutter` · `OpenCV` · `TensorFlow`
+
+**Tools & Infrastructure**  
+`MySQL` · `PostgreSQL` · `SQLite` · `Postman` · `Figma` · `GCP`
+
+---
+
+### GitHub Metrics
+
+<p align="left">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=pujagithub2006&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=pujagithub2006&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### Connect
+
+[LinkedIn](https://linkedin.com/in/puja-nikam-706176285) &nbsp;|&nbsp; [Twitter](https://twitter.com/its_puja_nikam) &nbsp;|&nbsp; [Hashnode](https://hashnode.com/@puja-nikam) &nbsp;|&nbsp; [Instagram](https://instagram.com/the_puja_nikam)y working on **Java Rate Limiter**
 
 -  I’m currently learning **Java, SQL, DSA, MERN stack, AI**
 
